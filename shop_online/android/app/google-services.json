@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100797142750",
+    "project_id": "shopthoitrang-50e76",
+    "storage_bucket": "shopthoitrang-50e76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100797142750:android:ea36f2c15b40df3cfd544f",
+        "android_client_info": {
+          "package_name": "com.example.electronic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100797142750-qk66bdr365i86negujmk3glr9r31l3eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsekrAoBCHSbH_orQwmMCa3M7jKOz8L2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100797142750-qk66bdr365i86negujmk3glr9r31l3eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
